@@ -14,3 +14,7 @@ $ pwd
 $ pip install -r requirements.txt
 ~~~
 This implements should run in your pip environments.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
